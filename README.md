@@ -1,4 +1,4 @@
-# Welcome to our MovieKitap!
+# Welcome to MovieKitap!
 We are 3 computer engineering students at Bogazici University and we are book and movie enthusiasts.
 ## Meet us
 <img src="https://avatars.githubusercontent.com/GozdeUnver" alt="Gözde Ünver" width="150">|<img src="https://avatars.githubusercontent.com/u/19885359?v=4" alt="Elif Sema Balcıoğlu" width="150">|<img src="https://avatars.githubusercontent.com/u/35612610?v=4" alt="Merve Rabia Barın" width="150">|
