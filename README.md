@@ -6,4 +6,4 @@ We are 3 computer engineering students at Bogazici University and we are book an
 |[Gözde Ünver](https://github.com/GozdeUnver)|[Elif Sema Balcıoğlu](https://github.com/fileames)|[Merve Rabia Barın](https://github.com/mrabiabrn)|
 ## What we do
 We write our analysis on books and movies that 
-we choose on the wiki pages that are present on the [wiki](https://github.com/GozdeUnver/MovieKitap/wiki) section. 
+we choose. We write our analysis on the wiki pages that are present on the [wiki](https://github.com/GozdeUnver/MovieKitap/wiki) section. You can also find the list of upcoming books and movies to be analyzed in the wiki section as well.
